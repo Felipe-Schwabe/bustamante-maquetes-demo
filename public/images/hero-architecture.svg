@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1100" role="img" aria-labelledby="title desc">
+  <title id="title">Composição arquitetônica demonstrativa</title><desc id="desc">Volumes em papel, verde e concreto organizados como uma maquete conceitual.</desc>
+  <defs><linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#dcebe5"/><stop offset="1" stop-color="#f7f7f3"/></linearGradient><pattern id="grid" width="54" height="54" patternUnits="userSpaceOnUse"><path d="M54 0H0V54" fill="none" stroke="#006f60" stroke-opacity=".14"/></pattern><filter id="shadow"><feDropShadow dx="0" dy="24" stdDeviation="24" flood-color="#202725" flood-opacity=".16"/></filter></defs>
+  <rect width="1600" height="1100" fill="url(#bg)"/><rect width="1600" height="1100" fill="url(#grid)"/>
+  <path d="M0 820 390 600l930 130 280-170v540H0Z" fill="#d1d8d2"/><path d="M0 910 575 695l1025 130v275H0Z" fill="#bfcac2" opacity=".7"/>
+  <g filter="url(#shadow)"><path d="m390 600 560-290 400 120-560 310Z" fill="#f7f7f3"/><path d="m390 600 400 140v250L390 780Z" fill="#9db8ad"/><path d="m790 740 560-310v260L790 990Z" fill="#006f60"/><path d="m790 740 560-310 180 55-560 320Z" fill="#82a99b"/>
+  <path d="m545 520 275-145 95 28-275 153Z" fill="#202725"/><path d="m545 520 95 36v184l-95-34Z" fill="#586e67"/><path d="m640 556 275-153v181L640 740Z" fill="#2e433d"/>
+  <path d="m973 468 185-104 95 29-185 108Z" fill="#202725"/><path d="m973 468 95 33v154l-95-33Z" fill="#6f887e"/><path d="m1068 501 185-108v151l-185 107Z" fill="#3e5b50"/>
+  <path d="M280 856 815 692l504 106-535 174Z" fill="#f7f7f3" opacity=".9"/><path d="m815 692 504 106-100 59-502-109Z" fill="#dcebe5"/>
+  </g><circle cx="1350" cy="150" r="74" fill="#006f60" opacity=".8"/><path d="M1380 78v144M1308 150h144" stroke="#f7f7f3" stroke-width="2" opacity=".6"/>
+</svg>
